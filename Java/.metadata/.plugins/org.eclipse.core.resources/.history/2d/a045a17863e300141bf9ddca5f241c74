@@ -1,0 +1,11 @@
+package Package1;
+
+public class TestClass {
+	
+	public static void main(String[] args) {
+		int number;
+		number = 15;
+		System.out.println(number);
+	}
+	
+}
